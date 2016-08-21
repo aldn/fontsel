@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=fontsel
+GenericName=fontsel
+Exec=fontsel
+Terminal=false
+Type=Application
+Categories=System;
+Comment=Font selection and preview tool
